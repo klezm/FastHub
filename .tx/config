@@ -1,0 +1,10 @@
+[main]
+host = https://www.transifex.com
+lang_map = de_DE: de
+
+[fasthub.strings]
+file_filter = res/values/strings.xml
+file_filter = res/values-<lang>/strings.xml
+source_file = res/values/strings.xml
+source_lang = en_US
+type = XML
