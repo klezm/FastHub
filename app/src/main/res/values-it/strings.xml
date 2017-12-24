@@ -149,7 +149,7 @@
     <string name="creation_date">Crea data</string>
     <string name="creation_date_hint">Quando il file è stato creato</string>
     <string name="last_updated_hint">Quando il file è stato modificato l\'ultima volta</string>
-]    <string name="mark_all_as_read">Segna tutto come letto</string>
+    <string name="mark_all_as_read">Segna tutto come letto</string>
     <string name="all_notifications">Tutte le notifiche</string>
     <string name="unread">Non letto</string>
     <string name="all">Tutto</string>
